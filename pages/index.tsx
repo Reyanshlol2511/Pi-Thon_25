@@ -16,15 +16,15 @@ export default function Home() {
 	const faqs: FAQProps[] = [
 		{
 			faqVal: FAQEnum.Q1,
-			question: "What is Pi-thon'24?",
+			question: "What is Pi-thon'25?",
 			answer:
-				"Pi-thon'24 is an inter-school math competition designed to challenge and engage students in Grades 6-12."
+				"Pi-thon'25 is an inter-school math competition designed to challenge and engage students in Grades 6-12."
 		},
 		{
 			faqVal: FAQEnum.Q2,
 			question: "What are the dates and timings of the event?",
 			answer:
-				"The event will be held on the 23rd of March from 7:30 a.m. to 2:30 p.m."
+				"The event will be held on the 8th of February from 7:30 a.m. to 2:30 p.m."
 		},
 		{
 			faqVal: FAQEnum.Q3,
@@ -69,7 +69,7 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<title>{"π-THON'24"}</title>
+				<title>{"π-THON'25"}</title>
 				<meta name="description" content="TISB π-thon" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 				<link rel="icon" href="./images/Logo 2.jpg" />
@@ -85,14 +85,14 @@ export default function Home() {
 						// className="w-full h-[82%] mb-[4%] sm:h-[54%] sm:mb-[1%] flex flex-col justify-center items-center rounded-[2rem] grayscale-[50%] bg-cover"
 						>
 							<h1 className="text-4xl font-bold text-white sm:text-7xl">
-								{"π-THON'24"}
+								{"π-THON'25"}
 							</h1>
 							{/* <h3 className="text-2xl font-medium text-white sm:text-5xl mt-2" style={{ color: '#173012' }}> */}
 							<h3 className="text-2xl font-medium  text-white sm:text-5xl mt-2 color-#173012">
 								EMBRACE THE CIRCLE OF KNOWLEDGE
 							</h3>
 							<h3 className="flex items-center justify-center my-4 text-xl font-bold text-white sm:text-2xl">
-								March 23rd
+								Feb 8th
 							</h3>
 							<motion.button
 								whileHover={{ scale: 1.03 }}
@@ -105,7 +105,7 @@ export default function Home() {
 										block: "start",
 									});
 								}}
-								onClickCapture={() => window.open("https://docs.google.com/forms/d/e/1FAIpQLSdaHwFhU7MMPco_pSo0kKJ-9Z9NctOwblbP5yjoKhV69w4L4Q/viewform?usp=sharing", "_blank")}
+								onClickCapture={() => window.open("newform25", "_blank")}
 								className="flex flex-wrap w-[80%] sm:w-auto text-black items-center justify-center px-10 py-2 mt-2 text-xl brightness-[1.2] font-semibold bg-white sm:bg-gradient-to-br from-[#87CEEB] to-[#5F9EA0] rounded-3xl sm:rounded-full cursor-pointer"
 							>
 								Registrations Open!
@@ -152,7 +152,7 @@ export default function Home() {
 									{`Solutions`}
 								</motion.button>
 								<h5 className="mt-2">
-									Have queries? Contact dharshit@tisb.ac.in | iaditya@tisb.ac.in
+									Have queries? Contact pashwat@tisb.ac.in | cabir@tisb.ac.in
 								</h5>
 							</motion.div>
 
@@ -167,7 +167,7 @@ export default function Home() {
 								<motion.button
 									whileHover={{ scale: 1.03 }}
 									transition={{ duration: 0.3 }}
-									onClick={() => window.open("https://1drv.ms/b/s!Aq1ItQ904t0xhUk0TnsP0xv8p5xT?e=oE6XWn", "_blank")}
+									onClick={() => window.open("practiceques25", "_blank")}
 									className="py-4 px-6 text-xl font-semibold bg-green-900 text-white rounded-lg shadow-md hover:bg-green-600 cursor-pointer"
 								>
 									Practice Questions
@@ -176,14 +176,14 @@ export default function Home() {
 								<motion.button
 									whileHover={{ scale: 1.03 }}
 									transition={{ duration: 0.3 }}
-									onClick={() => window.open("https://1drv.ms/b/s!Aq1ItQ904t0xhUuvYi6xwG2UANot?e=bJTK4v", "_blank")}
+									onClick={() => window.open("practiceques25", "_blank")}
 									className="py-4 px-6 text-xl font-semibold bg-green-900 text-white rounded-lg shadow-md hover:bg-green-600 cursor-pointer mt-2 "
 									// style={{width:220}}
 								>
 									{`Solutions`}
 								</motion.button>
 								<h5 className="mt-2">
-									Have queries? Contact dharshit@tisb.ac.in | iaditya@tisb.ac.in
+									Have queries? Contact pashwat@tisb.ac.in | cabir@tisb.ac.in
 								</h5>
 							</motion.div>
 						</div>
