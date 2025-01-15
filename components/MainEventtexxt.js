@@ -10,7 +10,7 @@ export const event1 = {
 
 - Round 3: The final round remains a mystery, to be unveiled on the Event day. For now, you have this hint: “What is an Answer?
 
-Think fast, present smart, and solve the mystery: compete at π-thon'24!”`,
+Think fast, present smart, and solve the mystery: compete at π-thon'25!”`,
 };
 
 export const event2 = {
@@ -25,7 +25,7 @@ export const event2 = {
 
 - Round 3: The final round remains a mystery, to be unveiled on the Event day. For now, you have this hint: “What is an Answer?”
 
-Can you crack the code? join π-thon'24 for a thrilling math experience!”`,
+Can you crack the code? join π-thon'25 for a thrilling math experience!”`,
 };
 
 export const event3 = {
@@ -77,16 +77,15 @@ Participants will be judged on their adherence to the theme, creativity, emotion
 };
 
 export const aboutus = {
-    title: "π-thon'24",
-    description: `The International School of Bangalore (TISB) is extremely proud to announce the first edition of the 𝜋-thon. Eligible for students from grades 6-12, 𝜋-thon is an Inter-School math competition which will be held in-person at the TISB Campus on March 23rd, 2024. In this event, students all over India will be competing with teams of other schools to engage in high-level mathematical problem solving and showcase their mathematical prowess. 𝜋-thon fosters not only a culture of academic excellence, but also ingenious mathematical thinking.
+    title: "π-thon'25",
+    description: `The International School of Bangalore (TISB) is extremely proud to announce the first edition of the 𝜋-thon. Eligible for students from grades 6-12, 𝜋-thon is an Inter-School math competition which will be held in-person at the TISB Campus on February 8th, 2025. In this event, students all over India will be competing with teams of other schools to engage in high-level mathematical problem solving and showcase their mathematical prowess. 𝜋-thon fosters not only a culture of academic excellence, but also ingenious mathematical thinking.
     There will be a variety of electrifying and ingenious rounds students will be competing in to hone their skills and achieve mathematical glory. We hope to provide a unique and enriching learning experience through engaging and intellectually stimulating problems, allowing students to walk away with a deeper passion for mathematics
    
    
     CONTACT US 
 pi-thon@tisb.ac.in 
-jnaman@tisb.ac.in 
-jmishant@tisb.ac.in 
-maarushi@tisb.ac.in
+pashwat@tisb.ac.in 
+cabir@tisb.ac.in
 
     `,
 };
@@ -100,13 +99,13 @@ export const rules = {
 - No on-spot registrations. 
 - All registrations must be completed ONLINE.
 - Each school can send ANY number of teams per category. 
-- Every team must have 3 MEMBERS 
+- Every team must have 3 MEMBERS
 - Dress Code: School uniform ONLY
 - Please carry your school ID card on the day of the event. Participants will NOT be permitted WITHOUT ID.
 - Please arrive at 7:30 AM to complete the registration procedures. 
 - The event will take place from 7:30 AM - 2 PM
 
-COMPETE, COLLABORATE, CONQUER AT π-THON'24!`
+COMPETE, COLLABORATE, CONQUER AT π-THON'25!`
 }
 
 
