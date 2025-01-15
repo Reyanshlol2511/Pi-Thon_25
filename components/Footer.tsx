@@ -6,7 +6,7 @@ const Footer = () => {
         <span style={{color:'white'}}>pi-thon@tisb.ac.in</span>
       </h5>
       <p className='font-[700] mt-1' style={{ color: 'white' }}>
-        {"π-THON'24 © All rights reserved."}
+        {"π-THON'25 © All rights reserved."}
       </p>
     </div>
   )
