@@ -63,7 +63,7 @@ const Navbar = () => {
           Themes
         </p> */}
         <p
-          onClick={() => { window.open("https://1drv.ms/b/s!Aq1ItQ904t0xhUdnl_OitLc7zffi?e=ENfJXi", "_blank") }}
+          onClick={() => { window.open("brochure25", "_blank") }}
           className="hidden text-white cursor-pointer select-none sm:block"  >
           Brochure
         </p>
@@ -132,7 +132,7 @@ const Navbar = () => {
         </p>
 
         <div
-          onClick={() => { window.open("https://docs.google.com/forms/d/e/1FAIpQLSdaHwFhU7MMPco_pSo0kKJ-9Z9NctOwblbP5yjoKhV69w4L4Q/viewform?usp=sharing", "_blank") }}
+          onClick={() => { window.open("newform25", "_blank") }}
           className="hidden sm:block px-6 py-2 mr-8 rounded-full cursor-pointer sm:mr-12 bg-gradient-to-b from-gradientTop to-gradientBottom"
         >
           Registrations Open
