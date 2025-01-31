@@ -180,12 +180,12 @@ export default function Home() {
 									className="py-4 px-6 text-xl font-semibold bg-green-900 text-white rounded-lg shadow-md hover:bg-green-600 cursor-pointer mt-2 "
 									 style={{width:220}}
 								>
-{ 									{`Solutions`}
+ 									{`Solutions`}
 								</motion.button> */}
 								<h5 className="mt-2">
 									Have queries? Contact pashwat@tisb.ac.in | cabir@tisb.ac.in
 								</h5>
-							</motion.div> }
+							</motion.div> 
 						</div>
 					</div>
 				</div>
