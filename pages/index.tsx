@@ -136,21 +136,21 @@ export default function Home() {
 								<motion.button
 									whileHover={{ scale: 1.03 }}
 									transition={{ duration: 0.3 }}
-									onClick={() => window.open("https://1drv.ms/b/s!Aq1ItQ904t0xhUjN6KEJcYH5jfNY?e=l5AYzx", "_blank")}
+									onClick={() => window.open("https://drive.google.com/file/d/1pN3Xi-ezL2-kjkGRtuX_LxLaH5DnZadY/view?usp=sharing", "_blank")}
 									className="py-4 px-6 text-xl font-semibold bg-green-900 text-white rounded-lg shadow-md hover:bg-green-600 cursor-pointer"
 								>
 									Practice Questions
 								</motion.button>
 								
-								<motion.button
+{/* 								<motion.button
 									whileHover={{ scale: 1.03 }}
 									transition={{ duration: 0.3 }}
-									onClick={() => window.open("https://1drv.ms/b/s!Aq1ItQ904t0xhUo7FCMU_VWUOj3w?e=p7k6u3", "_blank")}
+									onClick={() => window.open("practiceques25", "_blank")}
 									className="py-4 px-6 text-xl font-semibold bg-green-900 text-white rounded-lg shadow-md hover:bg-green-600 cursor-pointer mt-2 "
 									// style={{width:220}}
 								>
 									{`Solutions`}
-								</motion.button>
+								</motion.button> */}
 								<h5 className="mt-2">
 									Have queries? Contact pashwat@tisb.ac.in | cabir@tisb.ac.in
 								</h5>
@@ -167,25 +167,25 @@ export default function Home() {
 								<motion.button
 									whileHover={{ scale: 1.03 }}
 									transition={{ duration: 0.3 }}
-									onClick={() => window.open("practiceques25", "_blank")}
+									onClick={() => window.open("https://drive.google.com/file/d/1Gd2dza4sGwmP0_RjjyD9jrPYXXe2IPEV/view?usp=sharing", "_blank")}
 									className="py-4 px-6 text-xl font-semibold bg-green-900 text-white rounded-lg shadow-md hover:bg-green-600 cursor-pointer"
 								>
 									Practice Questions
 								</motion.button>
 								
-								<motion.button
+{/* 								<motion.button
 									whileHover={{ scale: 1.03 }}
 									transition={{ duration: 0.3 }}
 									onClick={() => window.open("practiceques25", "_blank")}
 									className="py-4 px-6 text-xl font-semibold bg-green-900 text-white rounded-lg shadow-md hover:bg-green-600 cursor-pointer mt-2 "
-									// style={{width:220}}
+									 style={{width:220}}
 								>
-									{`Solutions`}
-								</motion.button>
+{ 									{`Solutions`}
+								</motion.button> */}
 								<h5 className="mt-2">
 									Have queries? Contact pashwat@tisb.ac.in | cabir@tisb.ac.in
 								</h5>
-							</motion.div>
+							</motion.div> }
 						</div>
 					</div>
 				</div>
