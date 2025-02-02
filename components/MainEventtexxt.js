@@ -95,15 +95,51 @@ cabir@tisb.ac.in
 export const rules = {
     title: "RULES",
     description: `
-- No calculators allowed
-- No on-spot registrations. 
-- All registrations must be completed ONLINE.
-- Each school can send ANY number of teams per category. 
-- Every team must have 3 MEMBERS
-- Dress Code: School uniform ONLY
-- Please carry your school ID card on the day of the event. Participants will NOT be permitted WITHOUT ID.
-- Please arrive at 7:30 AM to complete the registration procedures. 
-- The event will take place from 7:30 AM - 2 PM
+Rules for Pi-thon:
+- All students must register BEFORE the event through the
+ONLINE portal
+- Please arrive at the venue on time. We cannot permit you to
+enter an event after it has begun.
+- Please note that schools can send any number of teams to
+any event, but the total number of members in a team must
+be
+- Please bring your official School ID to the event. Without this,
+you may not be permitted to enter
+
+Main Paper:
+1. For the written paper, calculators of any kind and smart
+electronic devices (including smartwatches, mobile phones,
+laptops) are strictly forbidden
+2. Students are permitted to bring their water bottles, pencils,
+pens, erasers, rulers, compasses, and protractors to the
+event
+3. Students can leave the exam hall at any time, but are not
+allowed to re-enter after they have submitted their paper
+4. Talking in the examination room without permission is not
+permitted
+5. Bringing books, external paper, printed sheets, notebooks,
+etc. is not allowed
+
+Relay Event:
+1. Please bring stationery of some form, with at least 2 pens or
+pencils
+2. Notepads will be provided; notepads or books brought by
+students will not be permitted into the event area
+3. Team members are not allowed to speak to each other during
+the relay event
+
+Presentation Round:
+1. Please follow the instructions of the judging committee and
+student liaisons
+2. Please cite all sources referred to make the presentation.
+Plagiarism will be checked and not tolerated if found
+3. Students will be expected to make 5 minute presentations, 
+with a limit at 7 minutes (you will be stopped if you exceed
+this time). Exceeding 6 minutes will lead to 1 point being
+deducted from your score.
+4. Please bring all required materials for the presentation
+beforehand. You will have 30 minutes to set up before
+presenting.
 
 COMPETE, COLLABORATE, CONQUER AT π-THON'25!`
 }
@@ -112,25 +148,16 @@ COMPETE, COLLABORATE, CONQUER AT π-THON'25!`
 export const schedule = {
     title: "Schedule",
     description: `
-7:30-8:30 :  Registrations – Main Auditorium (North Entrance Desk)
-
-8:30-9:00 :  Opening ceremony – Main Auditorium
-
-9:00-9:45 :  Senior MCQ + Free Response Round | Junior MCQ + Free Response Round
-
-9:45-10:00:  Break
-
-10:00-11:00: Junior exhibition theme announcement & preparation | Relay for seniors
-
-11:0-11:30: Presentation and evaluation of Junior exhibition
-
-11:30-12:15 :Lunch - Main Cafeteria
-
-12:15-1:15 : Seniors final round | Juniors final round
-
-1:15-1:30 :  Break
-
-1:30-2:00:  Prize Distribution & Closing ceremony – Main Auditorium
+Registration - 7:30 AM to 8:00 AM - Portico
+Opening Ceremony: 8:30 AM to 9:15 AM - Admin Auditorium
+Team Relays-  9:15 AM to 10:00 AM - A1/A2
+Juice Break - 10:00 AM to 10:15 AM - Portico
+Senior Paper - 10:15 AM to 11:15 AM - Hills
+Junior Paper - 10:15 AM to 11:15 AM - Hills/Portico
+Lunch - 11:15 AM to 12:00 PM Cafeteria/Portico
+Presentations - 12:00 PM to 1:00 PM - Admin Auditorium
+Knockouts Round - 1:00 PM to 2:00 PM - Admin Auditorium
+Closing Ceremony - 2:00 PM to 2:45 PM - Admin Auditorium
 
     `
 }
