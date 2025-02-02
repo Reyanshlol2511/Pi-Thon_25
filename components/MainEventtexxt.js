@@ -95,32 +95,7 @@ cabir@tisb.ac.in
 export const rules = {
     title: "RULES",
     description: `
-Rules for Pi-thon:								Relay Event:
-- All students must register BEFORE the event through the			1. Please bring stationery of some form, with at least 2 pens or pencils.
-ONLINE portal									2. Notepads will be provided; notepads or books brought by
-- Please arrive at the venue on time. We cannot permit you to			   students will not be permitted into the event area
-enter an event after it has begun.						3. Team members are not allowed to speak to each other during
-- Please note that schools can send any number of teams to			   the relay event.
-any event, but the total number of members in a team must			
-be										Presentation Round:
-- Please bring your official School ID to the event. Without this,		1. Please follow the instructions of the judging committee and
-you may not be permitted to enter						   student liaisons.
-										2. Please cite all sources referred to make the presentation.
-Main Paper:									   Plagiarism will be checked and not tolerated if found
-1. For the written paper, calculators of any kind and smart			3. Students will be expected to make 5 minute presentations, 
-electronic devices (including smartwatches, mobile phones,			   with a limit at 7 minutes (you will be stopped if you exceed
-laptops) are strictly forbidden							   this time). Exceeding 6 minutes will lead to 1 point being
-2. Students are permitted to bring their water bottles, pencils,		   deducted from your score.
-pens, erasers, rulers, compasses, and protractors to the			4. Please bring all required materials for the presentation before
-event										   beforehand. You will have 30 minutes to set up presenting.
-3. Students can leave the exam hall at any time, but are not			
-allowed to re-enter after they have submitted their paper			
-4. Talking in the examination room without permission is not			
-permitted									
-5. Bringing books, external paper, printed sheets, notebooks,			
-etc. is not allowed								 
 
-COMPETE, COLLABORATE, CONQUER AT π-THON'25!`
 }
 
 
