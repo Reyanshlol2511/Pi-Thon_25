@@ -96,6 +96,7 @@ export const rules = {
     title: "RULES",
     description: `
 
+`
 }
 
 
